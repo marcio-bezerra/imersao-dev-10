@@ -52,7 +52,7 @@ div input {
 }
 
 div input::placeholder {
-    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
+    font-size: 1.05rem; /* Tamanho da fonte do placeholder */
     font-weight: 300; /* Peso da fonte do placeholder */
     color: var(--tertiary-color); /* Cor do texto do placeholder */
 }
